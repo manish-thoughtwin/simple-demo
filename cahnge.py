@@ -4,3 +4,5 @@ for i in li:
         print("even")
     else:
         print("odd")    
+        
+"yes i am write this code"        
